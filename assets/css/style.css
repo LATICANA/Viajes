@@ -37,3 +37,8 @@ h5{
 .logo {
     width: 9%;
 }
+
+.card-text {
+    font-style: normal;
+    font-weight: 100;
+}
